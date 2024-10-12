@@ -1,0 +1,57 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  nav {
+    background-color: #f26722;
+    padding: 1rem;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 2rem 0;
+    background-color: #333;
+    color: white;
+  }
+  
+  main {
+    padding: 2rem;
+  }
+  /* /src/index.css - Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  /* Other global styles */
+  
+  /* /src/styles/customStyles.css - Component/Page Specific Styles */
+.pet-card {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 12px;
+    text-align: center;
+  }
+  
+  .pet-card img {
+    width: 100%;
+    height: auto;
+  }
+  

@@ -1,0 +1,42 @@
+/* styles.css */
+.container {
+    padding-top: 50px;
+    }
+    
+    .card {
+    border-radius: 10px;
+    border: none;
+    }
+    
+    .card-body {
+    padding: 2rem;
+    }
+    
+    h1 {
+    font-size: 2rem;
+    color: #333;
+    }
+    
+    button {
+    padding: 10px;
+    font-size: 1.2rem;
+    }
+    
+    .text-danger {
+    font-weight: bold;
+    }
+    
+    body {
+    background-color: #f8f9fa; /* Light grey background */
+    }
+    
+    .container {
+    padding-top: 50px;
+    }
+    
+    .card {
+    border-radius: 10px;
+    border: none;
+    background-color: #ffffff; /* White background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
